@@ -3,3 +3,7 @@
     linear-gradient(rgba(53, 53, 53, 0.88), rgba(39, 39, 39, 0.86)),
     url("/assets/img/background1.png") center / cover no-repeat;
 }
+
+a {
+    color: #fff;
+}
