@@ -1,0 +1,52 @@
+.hero {
+    background:
+    linear-gradient(rgba(53, 53, 53, 0.685), rgba(39, 39, 39, 0.658)),
+    url("/assets/img/background5.jpg") center / cover no-repeat;
+}
+
+.pricing {
+  max-width: 580px;
+}
+
+.pricing-table {
+  width: 100%;
+  border-collapse: collapse;
+  margin-bottom: 2rem;
+}
+
+.pricing-table td {
+  padding: 0.6rem 0;
+  font-size: 1.165rem;
+}
+
+.pricing-table td:first-child {
+  opacity: 0.9;
+}
+
+.pricing-table .price {
+  text-align: right;
+  font-weight: 600;
+  white-space: nowrap;
+}
+
+.pricing-notes {
+  font-size: 0.95rem;
+  line-height: 1.5;
+  opacity: 0.85;
+}
+
+.pricing-notes p {
+  margin: 0 0 0.75rem;
+}
+
+@media (max-width: 600px) {
+  .pricing-table td {
+    padding: 0.5rem 0;
+  }
+
+  .pricing-table .price {
+    text-align: left;
+    display: block;
+    margin-top: 0.25rem;
+  }
+}

@@ -1,0 +1,223 @@
+
+@font-face {
+  font-family: "OpenSans";
+  src: url("/assets/fonts/OpenSans-VariableFont_wdth,wght.ttf") format("truetype");
+  font-weight: 100 900;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "OpenSans";
+  src: url("/assets/fonts/OpenSans-Italic-VariableFont_wdth,wght.ttf") format("truetype");
+  font-weight: 100 900;
+  font-style: italic;
+  font-display: swap;
+}
+
+:root {
+  --brown: #a33a14;
+  --text-light: #ffffff;
+}
+
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  font-family: "OpenSans", system-ui, sans-serif;
+  color: var(--text-light);
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+.layout {
+  display: flex;
+  min-height: 100vh;
+}
+
+.content {
+  flex: 1;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+.sidebar {
+  width: 260px;
+  background: var(--brown);
+  display: flex;
+  flex-direction: column;
+  position: relative;
+}
+
+.logo {
+  padding: 1rem;
+}
+
+.logo img {
+  width: 100%;
+  height: auto;
+}
+
+.nav-toggle {
+  display: none;
+  background: none;
+  border: none;
+  color: var(--text-light);
+  font-size: 2rem;
+  cursor: pointer;
+  padding: 1rem;
+}
+
+.nav {
+  display: flex;
+  flex-direction: column;
+  padding: 2rem 1rem;
+  gap: 1.2rem;
+}
+
+.nav a {
+  color: var(--text-light);
+  text-decoration: none;
+  font-size: 1.4rem;
+  text-align: left;
+  margin-left: 1.2rem;
+}
+
+.nav a:hover {
+  text-decoration: underline;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+.hero {
+  min-height: 100vh;
+  padding: 4rem;
+}
+
+.hero h1 {
+  font-size: clamp(2.5rem, 5vw, 4rem);
+  line-height: 1.1;
+  margin-bottom: 1rem;
+}
+
+.hero h1 em {
+  font-style: italic;
+}
+
+.subtitle {
+  font-size: 1.165rem;
+  margin-bottom: 3rem;
+  max-width: 50%;
+}
+
+
+/* Unused */
+
+blockquote {
+  max-width: 480px;
+  font-style: italic;
+}
+
+blockquote footer {
+  margin-top: 0.5rem;
+  text-align: right;
+}
+
+
+
+
+
+
+
+
+
+@media (max-width: 900px) {
+  .layout {
+    flex-direction: column;
+  }
+
+  .sidebar {
+    width: 100%;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+  }
+
+  .nav {
+    flex-direction: row;
+    padding: 1rem;
+    gap: 1rem;
+  }
+
+  .hero {
+    padding: 2rem;
+  }
+}
+
+@media (max-width: 900px) {
+  .nav-toggle {
+    display: block;
+  }
+
+  .nav {
+    position: absolute;
+    top: 100%;
+    left: 0;
+    right: 0;
+
+    background: var(--brown);
+    flex-direction: column;
+    align-items: center;
+
+    padding: 1.5rem 1rem;
+    gap: 1.5rem;
+
+    display: none;
+  }
+
+  .nav.open {
+    display: flex;
+  }
+
+  .nav a {
+    text-align: center;
+    margin-left: none;
+  }
+  .subtitle {
+    max-width: 100%;
+  }
+}
+
