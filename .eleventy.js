@@ -3,7 +3,6 @@ module.exports = function(eleventyConfig) {
   eleventyConfig.addPassthroughCopy("src/assets");
 
   return {
-    pathPrefix: "/klavier-spielen-lernen.at//",
     dir: {
       input: "src",
       includes: "_includes",
