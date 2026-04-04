@@ -19,9 +19,6 @@
   font-size: 1.165rem;
 }
 
-.pricing-table td:first-child {
-  opacity: 0.9;
-}
 
 .pricing-table .price {
   text-align: right;
@@ -32,7 +29,6 @@
 .pricing-notes {
   font-size: 0.95rem;
   line-height: 1.5;
-  opacity: 0.85;
 }
 
 .pricing-notes p {
