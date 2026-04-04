@@ -11,11 +11,11 @@ title: Preise
             <tbody>
                 <tr>
                     <td>Klavierunterricht 50 Minuten pro Woche *</td>
-                    <td class="price">€ 155,– / monatlich</td>
+                    <td class="price">€ 155,– monatlich</td>
                 </tr>
                 <tr>
                     <td>Klavierunterricht 30 Minuten pro Woche *</td>
-                    <td class="price">€ 110,– / monatlich</td>
+                    <td class="price">€ 110,– monatlich</td>
                 </tr>
                 <tr>
                     <td>Einzelstunde (50 Minuten)</td>
@@ -34,6 +34,7 @@ title: Preise
                 Die Monatspauschale ist zu Monatsbeginn von September bis Juni zu bezahlen.
                 Es besteht die Möglichkeit, versäumte Stunden nachzuholen.
             </p>
+            <br>
             <p>
                 Wenn Sie einen Termin absagen müssen, bitte ich Sie, mir dies mindestens
                 24 Stunden davor mitzuteilen. Ich bitte um Verständnis, dass ich die Stunde

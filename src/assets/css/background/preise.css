@@ -40,9 +40,10 @@
     padding: 0.5rem 0;
   }
 
+
   .pricing-table .price {
-    text-align: left;
-    display: block;
+    text-align: right;
+
     margin-top: 0.25rem;
   }
 }
