@@ -34,9 +34,9 @@ title: Datenschutz
         <em>Rechtsgrundlage</em>: Art. 6 Abs. 1 lit. f DSGVO (berechtigtes Interesse).
     </p>
     <h2>3. Speicherdauer</h2>
-    <p>Server-Logfiles werden **maximal 7 Tage** gespeichert und anschließend gelöscht.</p>
+    <p>Server-Logfiles werden <em>maximal 7 Tage</em> gespeichert und anschließend gelöscht.</p>
     <h2>4. Weitergabe an Dritte</h2>
-    <p>Eine Weitergabe Ihrer Daten erfolgt **nicht**, außer bei gesetzlicher Verpflichtung (z. B. Strafverfolgung).</p>
+    <p>Eine Weitergabe Ihrer Daten erfolgt <em>nicht</em>, außer bei gesetzlicher Verpflichtung (z. B. Strafverfolgung).</p>
     <h2>5. Ihre Rechte</h2>
     <p>
         Sie haben das Recht auf:
@@ -63,6 +63,3 @@ title: Datenschutz
         E-Mail: <a href="mailto:prinz.barbara@yahoo.de">prinz.barbara@yahoo.de</a>
     </p>
 </section>
-
-
-****:  
