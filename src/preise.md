@@ -40,10 +40,6 @@ title: Preise
                 24 Stunden davor mitzuteilen. Ich bitte um Verständnis, dass ich die Stunde
                 ansonsten verrechnen muss.
             </p>
-            <p>
-                Bei Hausbesuchen gibt es einen individuellen Fahrtkostenzuschlag,
-                je nach Fahrtzeit.
-            </p>
         </div>
     </section>
 </section>
