@@ -15,7 +15,7 @@ title: Über Mich
         betätigt sich als Korrepetitorin, hauptsächlich im vokalen Bereich. Klavierbegleitungen für Aufnahmen von Werken von Tosti, spanischen Zarzuelas, Schuberts Winterreise und Kompostionen von Kurt Weill.<br><br>
         beschäftigt sich neben dem klassischen Bereich immer wieder gerne mit Jazz und Popularmusik.<br><br>
         besucht regelmäßig Fortbildungen des Niederösterreichischen Musikschulwerkes.<br><br>
-        Nimmt an Kursen der Altenburger Musikakademie teilt.<br><br>
+        nimmt an Kursen der Altenburger Musikakademie teilt.<br><br>
         besucht Klavierkurse in der Musikakademie Rheinsberg/Brandenburg bei Stanislaw Widulin.<br><br>
     </p>
 </section>
