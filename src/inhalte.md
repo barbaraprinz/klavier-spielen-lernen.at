@@ -54,11 +54,4 @@ layout: klavierunterricht.njk
         </div>
     </a>
     <br>
-    <a href="/vorspielen" class="link-card small-image">
-        <div class="link-card-content">
-            <h3 class="link-card-title">
-                Vorspielen
-            </h3>
-        </div>
-    </a>
 </section>
