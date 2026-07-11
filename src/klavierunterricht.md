@@ -10,7 +10,7 @@ title: Klavierunterricht
     <p class="subtitle">
         Die Freude am Musizieren ist wahrscheinlich die „wichtigste Methode“.<br><br>
         Ich glaube, dass eine respektvolle und vertrauensvolle Beziehung
-        zwischen Schüler und Lehrer die Basis für einen zufriedenstellenden Unterricht ist.<br><br>
+        zwischen Schülerinnen und Schüler und Lehrerinnen und Lehrer die Basis für einen zufriedenstellenden Unterricht ist.<br><br>
         Meine Arbeitsweise und die Unterrichtsinhalte passe ich den individuellen
         Fähigkeiten und Bedürfnissen meiner Schülerinnen und Schüler an.
     </p>
