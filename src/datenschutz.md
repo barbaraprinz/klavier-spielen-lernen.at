@@ -7,7 +7,7 @@ title: Datenschutz
         Datenschutzerklärung
     </h1>
     <br>
-    <em>Stand: April 2026</em>
+    <em>Stand: September 2026</em>
     <p>
         Der Schutz Ihrer persönlichen Daten ist uns ein besonderes Anliegen.
         Wir verarbeiten Ihre Daten <em>ausschließlich</em> im Rahmen der gesetzlichen
@@ -59,7 +59,7 @@ title: Datenschutz
     <p>Wir behalten uns vor, diese Erklärung anzupassen. Der aktuelle Stand ist stets hier abrufbar.</p>
     <h2>Kontakt für Datenschutzfragen</h2>
     <p>
-        Barbara Prinz
+        Barbara Prinz<br>
         E-Mail: <a href="mailto:prinz.barbara@yahoo.de">prinz.barbara@yahoo.de</a>
     </p>
 </section>
