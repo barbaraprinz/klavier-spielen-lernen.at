@@ -21,5 +21,5 @@ title: Korrepetition
             <li>unkomplizierte und geduldige Chorbegleitung</li>
         </ul>
     </p>
-    <p class="subtitle">60 Minuten Korrepetition kosten 35 Euro, und für längerfristige Projekte können wir gemeinsam eine Pauschale festlegen.</p>
+    <p class="subtitle">60 Minuten Korrepetition kosten 40 Euro, und für längerfristige Projekte können wir gemeinsam eine Pauschale festlegen.</p>
 </section>

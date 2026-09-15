@@ -48,7 +48,7 @@ title: FAQ
             Machen Sie auch Hausbesuche?
         </span>
         <span class="faq-answer" id="answer6">
-            Ja, ich mache Hausbesuche. Dabei verrechne ich einen Zuschlag, dessen Höhe von der benötigten Fahrzeit abhängig ist.
+            Nein, zur Zeit nicht.
         </span>
     </p>
 </section>

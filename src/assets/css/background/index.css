@@ -1,7 +1,7 @@
 .hero {
     background:
-    linear-gradient(rgba(53, 53, 53, 0.88), rgba(39, 39, 39, 0.86)),
-    url("/assets/img/background1.png") center / cover no-repeat;
+    linear-gradient(to right, rgba(53, 53, 53, 0.834), rgba(39, 39, 39, 0.426)),
+    url("/assets/img/background1.jpg") center / cover no-repeat;
 }
 
 a {
