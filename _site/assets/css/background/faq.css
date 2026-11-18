@@ -1,0 +1,31 @@
+.hero {
+    background:
+    linear-gradient(rgba(53, 53, 53, 0.726), rgba(39, 39, 39, 0.705)),
+    url("/assets/img/background4.png") center / cover no-repeat;
+}
+
+.subtitle {
+    margin-bottom: 0rem;
+}
+
+ul {
+    font-size: 1.165rem;
+}
+
+
+.faq-answer {
+    display: none;
+    margin-top: 0.5rem;
+    padding-left: 1rem;
+    border-left: 2px solid #ccc;
+}
+
+.faq-question {
+    cursor: pointer;
+    color: var(--text-light);
+    font-weight: bold;
+}
+
+.faq-question:hover {
+    color: #c0c0c0;
+}

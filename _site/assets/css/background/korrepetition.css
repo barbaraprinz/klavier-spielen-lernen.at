@@ -1,0 +1,13 @@
+.hero {
+    background:
+    linear-gradient(rgba(53, 53, 53, 0.726), rgba(39, 39, 39, 0.705)),
+    url("/assets/img/background4.png") center / cover no-repeat;
+}
+
+.subtitle {
+    margin-bottom: 0rem;
+}
+
+ul {
+    font-size: 1.165rem;
+}

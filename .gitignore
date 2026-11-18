@@ -1,9 +1,6 @@
 # Dependencies
 node_modules/
 
-# Build output
-_site/
-
 # Cache (Eleventy)
 .cache/
 .eleventy.js.cache*

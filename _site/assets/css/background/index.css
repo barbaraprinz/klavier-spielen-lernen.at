@@ -1,0 +1,9 @@
+.hero {
+    background:
+    linear-gradient(to right, rgba(53, 53, 53, 0.834), rgba(39, 39, 39, 0.426)),
+    url("/assets/img/background1.jpg") center / cover no-repeat;
+}
+
+a {
+    color: #fff;
+}
